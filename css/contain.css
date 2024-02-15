@@ -1,0 +1,16 @@
+
+a {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #F4B400; 
+    font-weight: 600;
+    font-size: 16px;
+  }
+  a:hover {
+    color: #DAA520; 
+  }
+  
+  .container {
+    width: 700px;
+    margin: 40px auto;
+  }

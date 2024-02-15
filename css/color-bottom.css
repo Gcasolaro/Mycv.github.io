@@ -1,0 +1,23 @@
+ 
+  .btn-blue {
+    background-color: #4A90E2; 
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+  }
+  .btn-blue:hover {
+    background-color: #357ABD; 
+    color: white;
+  }
+  
+  .list-inline i {
+    font-size: 50px;
+    color: rgb(230, 230, 230);
+  }
+  .list-inline i:hover {
+    color: #4A90E2;
+  }
+  
+  #introduction p {
+    margin-bottom: 40px;
+  }
